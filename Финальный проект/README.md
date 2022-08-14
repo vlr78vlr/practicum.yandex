@@ -14,3 +14,5 @@
 
 **Инструменты**: Python, Pandas, Matplotlib, SciPy, Seaborn, A/B-тестирование, проверка статистических гипотез, SQL, PostgreSQL
 dash, Tableau.
+
+**Статус проекта**: Завершен.
